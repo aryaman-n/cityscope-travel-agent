@@ -1,0 +1,4 @@
+New York City is the largest city in the United States and is organized across five boroughs: Manhattan, Brooklyn, Queens, the Bronx, and Staten Island. Well-known sights include Central Park, the Metropolitan Museum of Art, Times Square, the Empire State Building, the Statue of Liberty, the High Line, and the Brooklyn Bridge. Its neighborhoods are as important as its headline landmarks.
+
+The subway runs around the clock and is generally the most efficient transport for longer trips. Walking is practical within neighborhoods, and ferries offer useful skyline views. Visitors can combine museums and parks in Manhattan with food and cultural districts across Queens and Brooklyn. Broadway, jazz clubs, professional sports, and a wide range of cuisines support evening plans throughout the year.
+

@@ -1,0 +1,4 @@
+Paris is the capital of France, built along the River Seine. Its central neighborhoods combine medieval streets, broad nineteenth-century boulevards, public gardens, and dense cafe culture. Major landmarks include the Eiffel Tower, the Louvre, Notre-Dame Cathedral, Sainte-Chapelle, the Arc de Triomphe, and Sacré-Cœur in Montmartre. The Musée d'Orsay is especially strong for Impressionist art.
+
+The Métro is usually the fastest way to cross the city; walking works well within individual neighborhoods. Visitors often explore the Latin Quarter, Le Marais, Saint-Germain-des-Prés, and Canal Saint-Martin. Bakeries, markets, bistros, and regional French cooking are central to the experience. Timed tickets are sensible for major museums, and keeping daily plans geographically compact reduces transit time.
+

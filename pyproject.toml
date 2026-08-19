@@ -1,0 +1,37 @@
+[build-system]
+requires = ["hatchling>=1.25"]
+build-backend = "hatchling.build"
+
+[project]
+name = "cityscope-travel-agent"
+version = "0.1.0"
+description = "A LangGraph travel assistant with vector/web routing and a Streamlit UI"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+  "chromadb>=0.5,<2",
+  "langgraph>=0.2,<2",
+  "openai>=1.40,<3",
+  "pandas>=2.2,<3",
+  "pydantic>=2.7,<3",
+  "python-dotenv>=1.0,<2",
+  "requests>=2.32,<3",
+  "streamlit>=1.37,<2",
+]
+
+[project.optional-dependencies]
+dev = ["pillow>=10.4,<12", "pytest>=8.2,<9", "ruff>=0.6,<1"]
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/travel_assistant"]
+
+[tool.hatch.build.targets.wheel.force-include]
+"data/cities" = "travel_assistant/data/cities"
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
